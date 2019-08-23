@@ -20,6 +20,6 @@
 -   [Link Para Acessar o documento no Google Drive.](https://drive.google.com/open?id=1ZYCmK0_nWYtcsVDSg2vHKGIo3fm-zScy)
 
 ### 4. DIAGRAMA DE CLASSES UML<br>
- ![Alt Text]https://github.com/get-a-beer/index/blob/master/Imagens/PMC-Imagem.png)
+ ![Alt Text](https://github.com/get-a-beer/index/blob/master/Imagens/PMC-Imagem.png)
 -   [Link Para Acessar o diagrama no LucidChart.](https://www.lucidchart.com/invitations/accept/ff496c06-40f2-42b9-8e89-b45d94718f9c)
 -   [Link Para Acessar a imagem no Google Drive.](https://drive.google.com/open?id=1ftrq9AzxXV-gw9e8ol6bqRjzqTCxn8Wm)
